@@ -1,4 +1,4 @@
-# Logistic Regression Binary Classification
+ Logistic Regression Binary Classification
 
 ## 📌 Objective
 Build a binary classifier using **Logistic Regression** and evaluate it with multiple metrics.
@@ -35,5 +35,4 @@ pip install -r requirements.txt
 python code/logistic_regression.py
 ```
 
-## 📝 Report
-See `report.md` for explanation, interview Q&A, and evaluation.
+
